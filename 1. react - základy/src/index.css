@@ -1,0 +1,11 @@
+body {
+    background: rgb(199, 205, 223);
+}
+
+.all-books {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: red;
+    padding-top: 25px;
+}

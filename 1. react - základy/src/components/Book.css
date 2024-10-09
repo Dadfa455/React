@@ -1,0 +1,11 @@
+.one-book {
+    width: 300px;
+    background: purple;
+    border: 5px solid pink;
+    text-align: center;
+}
+
+.main-heading {
+    font-size: 25px;
+    color: #6c6c6c;
+}
